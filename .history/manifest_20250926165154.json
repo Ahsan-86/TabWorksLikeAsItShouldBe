@@ -2,7 +2,7 @@
   "id": "TabWorksLikeAsItShouldBe",
   "name": "Tab Works Like As It Should Be",
   "version": "1.0.0",
-  "minAppVersion": "0.15.0",
+  "minAppVersion": "1.4.0",
   "description": "Makes the Tab key behave like in Notepad++: insert a literal tab character instead of always indenting the whole line.",
   "author": "Muhammad Ahsan",
   "authorUrl": "https://github.com/ahsan-86",
